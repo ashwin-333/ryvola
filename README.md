@@ -1,11 +1,6 @@
-<p align="center">
-  <img src="public/ryvolalogo.png" width="28" height="28" alt="" style="vertical-align: middle" />
-  <strong>Ryvola</strong>: your AI productivity brain
-</p>
+# Ryvola: your AI productivity brain
 
-<p align="center">
-  <img src="public/ryvolaexample.png" alt="Ryvola example" />
-</p>
+![Example](public/ryvolaexample.png)
 
 ## Setup
 
